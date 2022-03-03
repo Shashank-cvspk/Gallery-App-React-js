@@ -1,0 +1,20 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container {
+  padding: 20px;
+  margin: auto;
+}
+.img-size {
+  height: 600px;
+  width: 1000px;
+}
+.List {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+}

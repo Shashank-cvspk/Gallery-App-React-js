@@ -1,0 +1,12 @@
+/* Write your code here. */
+.thumb-img {
+  height: 300px;
+  width: 300px;
+}
+.item {
+  margin-right: 10px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}
